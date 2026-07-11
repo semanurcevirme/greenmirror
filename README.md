@@ -47,4 +47,4 @@ Kullanıcı arayüzünü uçtan uca kendim tasarladım — wireframe'den nihai p
 PHP · MySQL · Chart.js · HTML · CSS · JavaScript · AJAX · Figma (UX/UI Design)
 
 ## İlgili Proje
-Bu projenin frontend/ürün versiyonu için: [VeriCos](https://github.com/kullaniciadi/vericos)
+Bu projenin frontend/ürün versiyonu için: [VeriCos](https://github.com/semanurcevirme/vericos)
